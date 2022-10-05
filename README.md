@@ -19,7 +19,7 @@ This is my first single page website. The landing page is implemented from scrat
 
 #### _Русская версия_
 
-<h1 align="center">Сайт для магазина «Интерьер»</h1>
+<h1 align="center">Лендинг «Коворкинг»</h1>
 <h2 align="center">
 
 <p align="center">
@@ -34,6 +34,6 @@ This is my first single page website. The landing page is implemented from scrat
 
 <p align="center"><img src="img/landing.gif" width="80%"></p>
 
-Это мой первый одностраничный сайт. Этот лэндинг реализован с нуля на HTML и CSS (SCSS) по моему дизайну. Он содержит несколько информационных блоков и форму заявки.
+Это мой первый одностраничный сайт. Этот лендинг реализован с нуля на HTML и CSS (SCSS) по моему дизайну. Он содержит несколько информационных блоков и форму заявки.
 <br>
 <br>
